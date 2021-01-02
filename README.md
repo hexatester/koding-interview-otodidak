@@ -1,5 +1,7 @@
 # Koding Interview Otodidak
 
+[![Atribusi-BerbagiSerupa 4.0 Internasional](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/legalcode.id ":crossorgin")
+
 Sumber belajar koding interview otodidak dari web developer sampai software engineer Google secara otodidak. Terjemahan dari [hexatester/koding-interview-otodidak](https://github.com/hexatester/koding-interview-otodidak).
 
 ## Ringkasan apa ini?
