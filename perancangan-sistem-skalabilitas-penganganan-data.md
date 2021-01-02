@@ -1,0 +1,128 @@
+# Perancangan Sistem, Skalabilitas, Penganganan Data
+
+**Anda dapat mengharapkan pertanyaan desain sistem jika Anda memiliki pengalaman 4+ tahun.**
+
+- Skalabilitas dan Desain Sistem adalah topik yang sangat besar dengan banyak topik dan sumber daya,
+  karena ada banyak hal yang perlu dipertimbangkan saat merancang sistem perangkat lunak / perangkat keras yang dapat diskalakan.
+  Berharap untuk meluangkan sedikit waktu untuk ini
+- Pertimbangan:
+  - Skalabilitas (Scalability)
+    - Saring kumpulan data besar menjadi nilai tunggal
+    - Ubah satu kumpulan data ke kumpulan lainnya
+    - Menangani data dalam jumlah yang sangat besar
+  - Desain sistem (System design)
+    - set fitur (features sets)
+    - antarmuka (interfaces)
+    - hierarki kelas (class hierarchies)
+    - merancang sistem di bawah batasan tertentu
+    - kesederhanaan dan ketahanan (simplicity and robustness)
+    - pengorbanan (tradeoffs)
+    - analisis dan pengoptimalan kinerja
+- [ ] **MULAI DI SINI**: [Primer Desain Sistem](https://github.com/donnemartin/system-design-primer)
+- [ ] [Desain Sistem dari HiredInTech](http://www.hiredintech.com/system-design/)
+- [ ] [Bagaimana Saya Mempersiapkan Untuk Menjawab Pertanyaan Desain Secara Teknis?](https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical-interview?redirected_qid=1500023)
+- [ ] [8 Hal Yang Perlu Diketahui Sebelum Wawancara Desain Sistem](http://blog.gainlo.co/index.php/2015/10/22/8-things-you-need-to-know-before-system-design-interviews/)
+- [ ] [Desain algoritme](http://www.hiredintech.com/algorithm-design/)
+- [ ] [Normalisasi Basis Data - 1NF, 2NF, 3NF dan 4NF (video)](https://www.youtube.com/watch?v=UrYLYV7WSHM)
+- [ ] [Wawancara Desain Sistem](https://github.com/checkcheckzz/system-design-interview) - Ada banyak sumber daya yang satu ini. Lihat artikel dan contoh. Saya taruh beberapa di bawah ini
+- [ ] [Bagaimana menjadi ace wawancara desain sistem](http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
+- [ ] [Nomor yang Harus Diketahui Setiap Orang](http://everythingisdata.wordpress.com/2009/10/17/numbers-everyone-should-know/)
+- [ ] [Berapa lama waktu yang dibutuhkan untuk membuat pengalih konteks?](http://blog.tsunanet.net/2010/11/how-long-does-it-take-to-make-context.html)
+- [ ] [Transaksi di Seluruh Pusat Data (video)](https://www.youtube.com/watch?v=srOgpXECblk)
+- [ ] [Pengantar bahasa Inggris sederhana untuk Teorema CAP](http://ksat.me/a-plain-english-introduction-to-cap-theorem)
+- [ ] Algoritma Konsensus:
+  - [ ] Paxos - [Paxos Agreement - Computerphile (video)](https://www.youtube.com/watch?v=s8JqcZtvnsM)
+  - [ ] Raft - [Pengantar Algoritma Konsensus Terdistribusi Rakit (video)](https://www.youtube.com/watch?v=P9Ydif5_qvE)
+    - [ ] [Kertas yang mudah dibaca](https://raft.github.io/)
+    - [ ] [Infografis](http://thesecretlivesofdata.com/raft/)
+- [ ] [Hashing yang Konsisten](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
+- [ ] [Pola NoSQL](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
+- [ ] Skalabilitas:
+  - Anda tidak membutuhkan semua ini. Pilih saja beberapa yang menarik bagi Anda.
+  - [ ] [Tinjauan bagus (video)](https://www.youtube.com/watch?v=-W9F__D3oY4)
+  - [ ] Seri pendek:
+    - [Klon (Clones)](http://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones)
+    - [Database (Database)](http://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database)
+    - [Cache (Cache)](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache)
+    - [Asinkronisme (Asynchronism)](http://www.lecloud.net/post/9699762917/scalability-for-dummies-part-4-asynchronism)
+  - [ ] [Arsitektur Web yang Skalabel dan Sistem Terdistribusi](http://www.aosabook.org/en/distsys.html)
+  - [ ] [Kekeliruan Komputasi Terdistribusi Dijelaskan](https://pages.cs.wisc.edu/~zuyu/files/fallacies.pdf)
+  - [ ] [Teknik Pemrograman Pragmatis](http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html)
+    - [ekstra: Pemrosesan Graph Google Pregel](http://horicky.blogspot.com/2010/07/google-pregel-graph-processing.html)
+  - [ ] [Jeff Dean - Membangun Sistem Perangkat Lunak di Google dan Pelajaran yang Dipetik (video)](https://www.youtube.com/watch?v=modXC5IWTJI)
+  - [ ] [Pengantar Sistem Arsitek untuk Skala](http://lethain.com/introduction-to-architecting-systems-for-scale/)
+  - [ ] [Menskalakan game seluler ke audiens global menggunakan App Engine dan Cloud Datastore (video)](https://www.youtube.com/watch?v=9nWyWwY2Onc)
+  - [ ] [Bagaimana Google Melakukan Rekayasa Skala Planet untuk Infra Skala Planet (video)](https://www.youtube.com/watch?v=H4vMcD7zKM0)
+  - [ ] [Pentingnya Algoritma](https://www.topcoder.com/community/competitive-programming/tutorials/the-importance-of-algorithms/)
+  - [ ] [Sharding](http://highscalability.com/blog/2009/8/6/an-unorthodox-approach-to-database-design-the-coming-of-the.html)
+  - [ ] [Scale at Facebook (2012), "Building for a Million Users" (video)](https://www.youtube.com/watch?v=oodS71YtkGU)
+  - [ ] [Teknik untuk Permainan Panjang - Astrid Atkinson Keynote (video)](https://www.youtube.com/watch?v=p0jGmgIrf_M&list=PLRXxvay_m8gqVlExPC5DG3TGWJTaBgqSA&index=4)
+  - [ ] [7 Tahun Pelajaran Skalabilitas YouTube Dalam 30 Menit](http://highscalability.com/blog/2012/3/26/7-years-of-youtube-scalability-lessons-in-30-minutes.html)
+    - [video](https://www.youtube.com/watch?v=G-lGCC4KKok)
+  - [ ] [Bagaimana PayPal Mengukur Miliaran Transaksi Setiap Hari Hanya Dengan Menggunakan 8VM](http://highscalability.com/blog/2016/8/15/how-paypal-scaled-to-billions-of-transactions-daily-using-ju.html)
+  - [ ] [Cara Menghapus Duplikat dalam Kumpulan Data Besar](https://blog.clevertap.com/how-to-remove-duplicates-in-large-datasets/)
+  - [ ] [Sekilas tentang skala dan budaya teknik Etsy dengan Jon Cowie (video)](https://www.youtube.com/watch?v=3vV4YiqKm1o)
+  - [ ] [Apa yang Membawa Amazon ke Arsitektur Layanan Mikro Sendiri](http://thenewstack.io/led-amazon-microservices-architecture/)
+  - [ ] [Untuk Mengompresi Atau Tidak Mengompresi, Itu Pertanyaan Uber](https://eng.uber.com/trip-data-squeeze/)
+  - [ ] [Asyncio Tarantool Queue, Masuk Antrian](http://highscalability.com/blog/2016/3/3/asyncio-tarantool-queue-get-in-the-queue.html)
+  - [ ] [Kapan Perkiraan Pemrosesan Kueri Digunakan?](http://highscalability.com/blog/2016/2/25/when-should-approximate-query-processing-be-used.html)
+  - [ ] [Transisi Google Dari Pusat Data Tunggal, Ke Failover, Ke Arsitektur Native Multihomed](http://highscalability.com/blog/2016/2/23/googles-transition-from-single-datacenter-to-failover-to-a-n.html)
+  - [ ] [Kunci pas](http://highscalability.com/blog/2012/9/24/google-spanners-most-surprising-revelation-nosql-is-out-and.html)
+  - [ ] [Pemrograman Didorong Pembelajaran Mesin: Pemrograman Baru Untuk Dunia Baru](http://highscalability.com/blog/2016/7/6/machine-learning-driven-programming-a-new-programming-for-a.html)
+  - [ ] [Teknologi Pengoptimalan Gambar Yang Melayani Jutaan Permintaan Per Hari](http://highscalability.com/blog/2016/6/15/the-image-optimization-technology-that-serves-millions-of-re.html)
+  - [ ] [A Patreon Architecture Short](http://highscalability.com/blog/2016/2/1/a-patreon-architecture-short.html)
+  - [ ] [Tinder: Bagaimana Salah Satu Mesin Rekomendasi Terbesar Memutuskan Siapa yang Akan Anda Lihat Selanjutnya?](http://highscalability.com/blog/2016/1/27/tinder-how-does-one-of-the-largest-recommendation-engines-de.html)
+  - [ ] [Desain Cache Modern](http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html)
+  - [ ] [Streaming Video Langsung Pada Skala Facebook](http://highscalability.com/blog/2016/1/13/live-video-streaming-at-facebook-scale.html)
+  - [ ] [Panduan Pemula Untuk Menskalakan Lebih dari 11 Juta Pengguna di Amazon AWS](http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
+  - [ ] [Bagaimana Penggunaan Latensi Efek Docker?](http://highscalability.com/blog/2015/12/16/how-does-the-use-of-docker-effect-latency.html)
+  - [ ] [Tampilan 360 Derajat Dari Seluruh Tumpukan Netflix](http://highscalability.com/blog/2015/11/9/a-360-degree-view-of-the-entire-netflix-stack.html)
+  - [ ] [Latensi Ada Di Mana-Mana Dan Itu Membebani Penjualan Anda - Cara Menghancurkannya](http://highscalability.com/latency-everywhere-and-it-costs-you-sales-how-crush-it)
+  - [ ] [Serverless (sangat lama, hanya perlu intinya)](http://martinfowler.com/articles/serverless.html)
+  - [ ] [What Powers Instagram: Ratusan Instans, Lusinan Teknologi](http://instagram-engineering.tumblr.com/post/13649370142/what-powers-instagram-hundreds-of-instances)
+  - [ ] [Arsitektur Cinchcast - Menghasilkan 1.500 Jam Audio Setiap Hari](http://highscalability.com/blog/2012/7/16/cinchcast-architecture-producing-1500-hours-of-audio-every-d.html)
+  - [ ] [Arsitektur Penyiaran Video Langsung Justin.Tv](http://highscalability.com/blog/2010/3/16/justintvs-live-video-broadcasting-architecture.html)
+  - [ ] [Arsitektur Permainan Sosial Playfish - 50 Juta Pengguna Bulanan Dan Berkembang](http://highscalability.com/blog/2010/9/21/playfishs-social-gaming-architecture-50-million-monthly-user.html)
+  - [ ] [Arsitektur TripAdvisor - 40 Juta Pengunjung, 200 Juta Tampilan Halaman Dinamis, 30 TB Data](http://highscalability.com/blog/2011/6/27/tripadvisor-architecture-40m-visitors-200m-dynamic-page-view.html)
+  - [ ] [Arsitektur PlentyOfFish](http://highscalability.com/plentyoffish-architecture)
+  - [ ] [Arsitektur Salesforce - Bagaimana Mereka Menangani 1,3 Miliar Transaksi Sehari](http://highscalability.com/blog/2013/9/23/salesforce-architecture-how-they-handle-13-billion-transacti.html)
+  - [ ] [Arsitektur ESPN Dalam Skala - Beroperasi pada 100.000 Duh Nuh Nuhs Per Detik](http://highscalability.com/blog/2013/11/4/espns-architecture-at-scale-operating-at-100000-duh-nuh-nuhs.html)
+  - [ ] Lihat cara "Sistem Perpesanan, Serialisasi, dan Antrean" di bawah ini untuk info tentang beberapa teknologi yang dapat merekatkan layanan
+  - [ ] Twitter:
+    - [O'Reilly MySQL CE 2011: Jeremy Cole, "Data Besar dan Kecil di @Twitter" (video)](https://www.youtube.com/watch?v=5cKTP36HVgI)
+    - [Garis Waktu dalam Skala](https://www.infoq.com/presentations/Twitter-Timeline-Scalability)
+  - Untuk informasi lebih lanjut, lihat serial video "Menambang Kumpulan Data Besar-besaran" di bagian [Seri Video](#seri-video)
+- [ ] Mempraktikkan proses desain sistem: Berikut adalah beberapa ide untuk dicoba di atas kertas, masing-masing dengan beberapa dokumentasi tentang bagaimana hal itu ditangani di dunia nyata:
+  - review: [Primer Desain Sistem](https://github.com/donnemartin/system-design-primer)
+  - [Desain Sistem dari HiredInTech](http://www.hiredintech.com/system-design/)
+  - [contekan (cheat sheet)](https://github.com/hexatester/koding-interview-otodidak/blob/master/extras/cheat%20sheets/system-design.pdf)
+  - aliran:
+    1. Pahami masalah dan cakupannya:
+       - Tentukan kasus penggunaan, dengan bantuan pewawancara
+       - Sarankan fitur tambahan
+       - Hapus item yang dianggap pewawancara di luar jangkauan
+       - Asumsikan ketersediaan tinggi diperlukan, tambahkan sebagai kasus penggunaan
+    2. Pikirkan tentang kendala:
+       - Tanyakan berapa banyak permintaan per bulan
+       - Tanyakan berapa banyak permintaan per detik (mereka mungkin menawarkannya secara sukarela atau meminta Anda menghitungnya)
+       - Perkirakan persentase membaca vs. menulis
+       - Ingat aturan 80/20 saat memperkirakan
+       - Berapa banyak data yang ditulis per detik
+       - Total penyimpanan yang dibutuhkan selama 5 tahun
+       - Berapa banyak data yang dibaca per detik
+    3. Desain abstrak:
+       - Lapisan (layanan, data, caching)
+       - Infrastruktur: load balancing, perpesanan
+       - Gambaran kasar tentang algoritme kunci apa pun yang menggerakkan layanan
+       - Pertimbangkan kemacetan dan tentukan solusinya
+  - Latihan:
+    - [Desain jaringan CDN: artikel lama](https://kilthub.cmu.edu/articles/Globally_distributed_content_delivery/6605972)
+    - [Rancang sistem pembuatan ID unik secara acak](https://blog.twitter.com/2010/announcing-snowflake)
+    - [Rancang permainan kartu multipemain daring](http://www.indieflashblog.com/how-to-create-an-asynchronous-multiplayer-game.html)
+    - [Mendesain database nilai kunci](http://www.slideshare.net/dvirsky/introduction-to-redis)
+    - [Rancang sistem berbagi gambar](http://highscalability.com/blog/2011/12/6/instagram-architecture-14-million-users-terabytes-of-photos.html)
+    - [Rancang sistem rekomendasi](http://ijcai13.org/files/tutorial_slides/td3.pdf)
+    - [Rancang sistem penyingkat URL: disalin dari atas](http://www.hiredintech.com/system-design/the-system-design-process/)
+    - [Rancang sistem cache](https://www.adayinthelifeof.nl/2011/02/06/memcache-internals/)
+
+Selanjutnya - [Ulasan Akhir](ulasan-akhir.md)
