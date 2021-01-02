@@ -183,8 +183,8 @@ Terkadang kelas tidak dalam sesi jadi Anda harus menunggu beberapa bulan, jadi A
     Saya menghargai bantuan Anda untuk menambahkan sumber publik yang gratis dan selalu tersedia, seperti video YouTube untuk menyertai video kursus online.
     Saya suka menggunakan kuliah universitas.
 
-## LICENSE
+## LISENSI
 
-[CC-BY-SA-4.0](/LICENSE)
+[CC-BY-SA-4.0](/LISENSI.md)
 
 Terjemahan Bahasa Indonesia oleh @[hexatester](https://github.com/hexatester), @[santosomichael](https://github.com/santosomichael), @[dikiaap](https://github.com/dikiaap), @[rvlewerissa](https://github.com/rvlewerissa), @[ziishaned](https://github.com/ziishaned), @[rimonmostafiz](https://github.com/rimonmostafiz), @[hwhung0111](https://github.com/hwhung0111), @[fahminlb33](https://github.com/fahminlb33), @[davidsetyanugraha](https://github.com/davidsetyanugraha)
