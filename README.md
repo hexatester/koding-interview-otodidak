@@ -2,7 +2,7 @@
 
 [![Atribusi-BerbagiSerupa 4.0 Internasional](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/legalcode.id ":crossorgin")
 
-Sumber belajar koding interview otodidak dari web developer sampai software engineer Google secara otodidak. Terjemahan dari [hexatester/koding-interview-otodidak](https://github.com/hexatester/koding-interview-otodidak).
+Sumber belajar koding interview otodidak dari web developer sampai software engineer Google secara otodidak. Terjemahan dari [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university).
 
 ## Ringkasan apa ini?
 
@@ -189,4 +189,16 @@ Terkadang kelas tidak dalam sesi jadi Anda harus menunggu beberapa bulan, jadi A
 
 [CC-BY-SA-4.0](/LISENSI.md)
 
-Terjemahan Bahasa Indonesia oleh @[hexatester](https://github.com/hexatester), @[santosomichael](https://github.com/santosomichael), @[dikiaap](https://github.com/dikiaap), @[rvlewerissa](https://github.com/rvlewerissa), @[ziishaned](https://github.com/ziishaned), @[rimonmostafiz](https://github.com/rimonmostafiz), @[hwhung0111](https://github.com/hwhung0111), @[fahminlb33](https://github.com/fahminlb33), @[davidsetyanugraha](https://github.com/davidsetyanugraha)
+## Penerjemah
+
+Terjemahan Bahasa Indonesia dari [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) dipersembahkan oleh :
+
+- Habib Rohman @[hexatester](https://github.com/hexatester)
+- davidsetyanugraha @[davidsetyanugraha](https://github.com/davidsetyanugraha)
+- Fahmi Noor Fiqri @[fahminlb33](https://github.com/fahminlb33)
+- Hung-Wei Hung @[hwhung0111](https://github.com/hunghw)
+- Rimon Mostafiz @[rimonmostafiz](https://github.com/rimonmostafiz)
+- Zeeshan Ahmad @[ziishaned](https://github.com/ziishaned)
+- Ronaldo Vitto Lewerissa @[rvlewerissa](https://github.com/rvlewerissa)
+- Diki Ananta @[dikiaap](https://github.com/dikiaap)
+- Michael Santoso @[santosomichael](https://github.com/santosomichael)
