@@ -24,3 +24,19 @@
 - [Pikirkan saat wawancara datang](/pikirkan-saat-wawancara-datang.md)
 - [Bertanyalah Pada Pewawancara](/bertanyalah-pada-pewawancara.md)
 - [Saat Anda Berhasil Mendapatkan Pekerjaannya](/saat-anda-berhasil-mendapatkan-pekerjaannya.md)
+
+---
+
+- [![Atribusi-BerbagiSerupa 4.0 Internasional](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](/LISENSI.md)
+
+---
+
+Semua dibawah ini bersifat opsional
+
+- [Buku Tambahan](/buku-tambahan.md)
+- [Pembelajaran Tambahan](/pembelajaran-tambahan.md)
+- [Detail Tambahan tentang Beberapa Subjek](/detail-tambahan-tentang-beberapa-subjek.md)
+- [Seri Video](/seri-video.md)
+- [Kursus Ilmu Komputer](/kursus-ilmu-komputer.md)
+- [Implementasi Algoritma](/implementasi-algoritma.md)
+- [Dokumen](/dokumen.md)
