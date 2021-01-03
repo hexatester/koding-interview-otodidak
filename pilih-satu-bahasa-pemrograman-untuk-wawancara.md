@@ -16,9 +16,16 @@ Berikut adalah artikel yang saya tulis tentang memilih bahasa untuk wawancara: [
 Anda harus sangat nyaman dalam bahasa tersebut dan berpengetahuan luas.
 
 Baca lebih lanjut tentang pilihan:
-- http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
-- http://blog.codingforinterviews.com/best-programming-language-jobs/
 
-[Lihat sumber bahasa di sini](../programming-language-resources.md)
+- [Pilih bahasa yang tepat untuk interview coding Anda](http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/)
+- [Memilih Bahasa Pemrograman untuk Wawancara](http://blog.codingforinterviews.com/best-programming-language-jobs/)
+
+<!-- [Lihat sumber bahasa di sini](../programming-language-resources.md) -->
 
 Anda akan melihat beberapa pembelajaran C, C++, dan Python yang disertakan di bawah ini, karena saya sedang belajar. Ada beberapa buku yang terlibat, lihat bagian bawah.
+
+---
+
+Selanjutnya - [Daftar Buku](daftar-buku.md)
+
+---

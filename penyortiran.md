@@ -79,4 +79,8 @@
 Sebagai ringkasan, berikut adalah representasi visual dari [15 algoritma pengurutan](https://www.youtube.com/watch?v=kPRA0W1kECg).
 Jika Anda membutuhkan detail lebih lanjut tentang subjek ini, lihat bagian "Menyortir" di [Detail Tambahan tentang Beberapa Subjek](detail-tambahan-tentang-beberapa-subjek.md)
 
+---
+
 Selanjutnya - [Graphs](graphs.md)
+
+---

@@ -241,4 +241,8 @@ Jika Anda membutuhkan detail lebih lanjut tentang subjek ini, lihat bagian "Stri
   - [ ] [Java - Sockets - Pengenalan (video)](https://www.youtube.com/watch?v=6G_W54zuadg&t=6s)
   - [ ] [Pemrograman Socket (video)](https://www.youtube.com/watch?v=G75vN2mnJeQ)
 
+---
+
 Selanjutnya - [Perancangan Sistem, Skalabilitas, Penganganan Data](perancangan-sistem-skalabilitas-penganganan-data.md)
+
+---

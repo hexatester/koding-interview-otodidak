@@ -21,4 +21,8 @@
   - [Computational Complexity: Section 2](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-2/)
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
 
+---
+
 Selanjutnya - [Struktur Data](struktur-data.md)
+
+---

@@ -125,4 +125,8 @@
     - [Rancang sistem penyingkat URL: disalin dari atas](http://www.hiredintech.com/system-design/the-system-design-process/)
     - [Rancang sistem cache](https://www.adayinthelifeof.nl/2011/02/06/memcache-internals/)
 
+---
+
 Selanjutnya - [Ulasan Akhir](ulasan-akhir.md)
+
+---

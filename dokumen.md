@@ -30,4 +30,8 @@
 - [2015: Bagaimana Pengembang Menelusuri Kode: Studi Kasus](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43835.pdf)
 - [2016: Borg, Omega, dan Kubernetes](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44843.pdf)
 
-Selanjutnya - [Kembali ke halaman utama](README.md)
+---
+
+[Kembali ke halaman utama](README.md)
+
+---

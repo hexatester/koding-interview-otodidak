@@ -38,4 +38,8 @@ Tambahan:
 
 Lihat [Daftar Buku di atas](daftar-buku.md)
 
+---
+
 Selanjutnya - [Latihan/tantangan coding](latihan-tantangan-coding.md)
+
+---

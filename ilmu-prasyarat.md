@@ -14,4 +14,8 @@
   - [ ] [Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
   - [ ] [Instruksi dan Program (video)](https://youtu.be/zltgXvg6r3k)
 
+---
+
 Selanjutnya - [Kompleksitas Algoritma / Big-O / Analisis Asimptotik](kompleksitas-algoritma.md)
+
+---

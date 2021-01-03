@@ -12,4 +12,8 @@ Beberapa milik saya (saya mungkin sudah tahu jawaban tetapi ingin pendapat atau 
 - Apa yang Anda suka tentang itu?
 - Seperti apa kehidupan kerja?
 
+---
+
 Selanjutnya - [Saat Anda Berhasil Mendapatkan Pekerjaannya](saat-anda-berhasil-mendapatkan-pekerjaannya.md)
+
+---

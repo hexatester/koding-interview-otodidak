@@ -60,4 +60,8 @@ Ini ada di sini sehingga Anda dapat menyelami topik yang menurut Anda menarik.
   - Beberapa bab pertama menyajikan solusi cerdas untuk masalah pemrograman (beberapa sangat lama menggunakan pita data)
     tetapi itu hanya intro. Ini adalah buku panduan tentang desain dan arsitektur program
 
+---
+
 Selanjutnya - [Pembelajaran Tambahan](pembelajaran-tambahan.md)
+
+---

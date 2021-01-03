@@ -88,4 +88,8 @@ Anda ingin dipekerjakan di abad ini, bukan?
         - [kuliah dimulai pada 35:00 (video)](https://www.youtube.com/watch?v=q7K9otnzlfE&index=9&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
         - [kuliah dimulai pada 23:50 (video)](https://www.youtube.com/watch?v=TvqIGu9Iupw&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=10)
 
+---
+
 Selanjutnya - [Seri Video](seri-video.md)
+
+---

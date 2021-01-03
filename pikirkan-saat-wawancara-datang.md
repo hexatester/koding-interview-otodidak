@@ -16,4 +16,8 @@ Memiliki cerita, bukan hanya data, tentang sesuatu yang Anda capai.
 - Apa yang Anda pelajari di [pekerjaan x / proyek y]?
 - Apa yang akan Anda lakukan lebih baik di [pekerjaan x / proyek y]?
 
+---
+
 Selanjutnya - [Bertanyalah Pada Pewawancara](bertanyalah-pada-pewawancara.md)
+
+---

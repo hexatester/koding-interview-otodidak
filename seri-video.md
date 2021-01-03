@@ -64,4 +64,8 @@ Duduk dan nikmati. "Netflix dan keterampilan": P
 
 - [Teori Grafik oleh Sarada Herke (67 video)](https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd)
 
+---
+
 Selanjutnya - [Kursus Ilmu Komputer](kursus-ilmu-komputer.md)
+
+---

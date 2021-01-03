@@ -12,7 +12,7 @@ Ini adalah daftar pendek yang saya gunakan. Ini disingkat untuk menghemat waktu 
 - [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
   - jawaban in Java
 
-## Jika anda memiliki banyak waktu:
+## Jika anda memiliki banyak waktu
 
 - [ ] [Elements of Programming Interviews (versi C++)](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
 - [ ] [Elements of Programming Interviews in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/)
@@ -65,3 +65,9 @@ Atau:
   - kode Pythonic
   - laporan buku saya: https://googleyasheck.com/book-report-data-structures-and-algorithms-in-python/
 - [ ] [Struktur Data Terbuka di Python](https://opendatastructures.org/ods-python.pdf)
+
+---
+
+Selanjutnya - [Sebelum Anda Mulai](sebelum-anda-mulai.md)
+
+---

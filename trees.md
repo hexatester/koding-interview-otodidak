@@ -85,4 +85,8 @@
   - [ ] heapify - membuat heap dari larik elemen, dibutuhkan untuk heap_sort
   - [ ] heap_sort() - mengambil array yang tidak disortir dan mengubahnya menjadi array yang diurutkan di tempat menggunakan heap maks atau heap min
 
+---
+
 Selanjutnya - [Penyortiran](penyortiran.md)
+
+---

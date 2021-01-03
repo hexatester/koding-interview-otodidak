@@ -62,4 +62,8 @@ Graf (Graphs) dapat digunakan untuk merepresentasikan banyak masalah dalam ilmu 
     - [ ] daftar komponen yang sangat terhubung
     - [ ] periksa graf bipartit
 
+---
+
 Selanjutnya - [Bahkan Lebih Banyak Pengetahuan](bahkan-lebih-banyak-pengetahuan.md)
+
+---

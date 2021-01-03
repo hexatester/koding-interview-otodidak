@@ -31,4 +31,8 @@ Anda tidak perlu susah payah menghafal setiap algoritma.
 
 Menulis kode pada papan tulis atau kertas, bukan komputer. Uji dengan beberapa sampel masukan. Kemudian menguji itu pada komputer.
 
+---
+
 Selanjutnya - [Ilmu Prasyarat](ilmu-prasyarat.md)
+
+---

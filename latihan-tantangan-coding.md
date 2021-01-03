@@ -49,4 +49,8 @@ Ambil tantangan pengkodean setiap hari, sebanyak yang Anda bisa.
 - [Refdash: Wawancara tiruan dan wawancara yang dipercepat](https://refdash.com/) - juga membantu kandidat mempercepat dengan melewatkan beberapa wawancara dengan perusahaan teknologi
 - [interviewing.io: Berlatih wawancara tiruan dengan insinyur senior](https://interviewing.io) - wawancara desain algoritme / sistem tanpa nama dengan insinyur senior dari FAANG secara anonim.
 
+---
+
 Selanjutnya - [Menjelang Proses Interview](menjelang-proses-interview.md)
+
+---
