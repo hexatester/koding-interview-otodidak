@@ -46,8 +46,8 @@
   - [Di Dunia Nyata Linked List Vs Array (video)](https://www.coursera.org/lecture/data-structures-optimizing-performance/in-the-real-world-lists-vs-arrays-QUaUd)
 - [ ] [mengapa Anda harus menghindari linked list (video)](https://www.youtube.com/watch?v=YQs6IC-vgmo)
 - [ ] Gotcha: Anda perlu pengetahuan pointer ke pointer:
-      (untuk saat Anda meneruskan pointer ke fungsi yang dapat mengubah alamat tempat pointer itu menunjuk)
-      Halaman ini hanya untuk memahami pointer ke pointer. Saya tidak merekomendasikan gaya traversal daftar ini. Keterbacaan dan pemeliharaan menderita karena kepintaran.
+  (untuk saat Anda meneruskan pointer ke fungsi yang dapat mengubah alamat tempat pointer itu menunjuk)
+  Halaman ini hanya untuk memahami pointer ke pointer. Saya tidak merekomendasikan gaya traversal daftar ini. Keterbacaan dan pemeliharaan menderita karena kepintaran.
   - [Pointer ke Pointer](https://www.eskimo.com/~scs/cclass/int/sx8.html)
 - [ ] Implementasikan (saya lakukan dengan tail pointer & tanpa):
   - [ ] size() - mengembalikan jumlah elemen data dalam daftar
