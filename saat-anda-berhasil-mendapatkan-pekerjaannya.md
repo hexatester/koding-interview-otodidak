@@ -23,6 +23,8 @@ Anda tidak pernah benar-benar selesai.
 
 ---
 
-Selanjutnya - [Buku Tambahan](buku-tambahan.md)
+Kembali - [Halaman Awal](README.md)
+
+Selanjutnya (Opsional) - [Buku Tambahan](buku-tambahan.md)
 
 ---
