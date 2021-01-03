@@ -15,7 +15,7 @@
 - [ ] Dapatkan pemahaman yang sangat baik tentang memanipulasi bit dengan: &, |, ^, ~, >>, <<
   - [ ] [kata-kata](<https://en.wikipedia.org/wiki/Word_(computer_architecture)>)
   - [ ] Awalan yang baik:
-        [Manipulasi Bit (video)](https://www.youtube.com/watch?v=7jkIUgLC29I)
+    [Manipulasi Bit (video)](https://www.youtube.com/watch?v=7jkIUgLC29I)
   - [ ] [C Tutorial Pemrograman 2-10: Operator Bitwise (video)](https://www.youtube.com/watch?v=d0AwjSpNXR0)
   - [ ] [Manipulasi Bit](https://en.wikipedia.org/wiki/Bit_manipulation)
   - [ ] [Operasi Bitwise](https://en.wikipedia.org/wiki/Bitwise_operation)
