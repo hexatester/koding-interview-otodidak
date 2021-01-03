@@ -27,7 +27,7 @@
   - [ ] [Simonson: Pemrograman Dinamis I - Kuliah 11 (video)](https://www.youtube.com/watch?v=0EzHjQ_SOeU&index=11&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm)
   - [ ] [Simonson: Pemrograman dinamis II - Kuliah 12 (video)](https://www.youtube.com/watch?v=v1qiRwuJU7g&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=12)
   - [ ] Daftar masalah individu Pemrograman Dinamis (masing-masing pendek):
-        [Pemrograman Dinamis (video)](https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+    [Pemrograman Dinamis (video)](https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [ ] Catatan Kuliah Yale:
   - [ ] [Pemrograman Dinamis](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#dynamicProgramming)
 - [ ] Coursera:
