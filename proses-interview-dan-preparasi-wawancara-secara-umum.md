@@ -22,3 +22,7 @@
     - Dapatkan praktik langsung dengan lebih dari 100 struktur data dan latihan algoritme serta panduan dari mentor yang berdedikasi untuk membantu mempersiapkan Anda untuk wawancara dan skenario di tempat kerja.
   - [ ] [Grokking Interview Perilaku (Kursus gratis edukatif)](https://www.educative.io/courses/grokking-the-behavioral-interview):
     - Sering kali, bukan kompetensi teknis Anda yang menahan Anda untuk mendapatkan pekerjaan impian Anda, melainkan bagaimana Anda melakukan wawancara perilaku.
+
+***
+Selanjutnya - [Pilih Satu Bahasa Pemrograman untuk Wawancara](/pilih-satu-bahasa-pemrograman-untuk-wawancara.md)
+***
