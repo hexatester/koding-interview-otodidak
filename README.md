@@ -185,6 +185,10 @@ Terkadang kelas tidak dalam sesi jadi Anda harus menunggu beberapa bulan, jadi A
     Saya menghargai bantuan Anda untuk menambahkan sumber publik yang gratis dan selalu tersedia, seperti video YouTube untuk menyertai video kursus online.
     Saya suka menggunakan kuliah universitas.
 
+***
+Selanjutnya - [Proses Interview dan Preparasi Wawancara Secara Umum](/proses-interview-dan-preparasi-wawancara-secara-umum.md)
+***
+
 ## LISENSI
 
 [CC-BY-SA-4.0](/LISENSI.md)
